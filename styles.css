@@ -1,0 +1,9 @@
+body {
+    background:radial-gradient(closest-side at 60% 55%, white, rgb(240, 111, 111)); 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: darkslategrey;
+    text-align: center;
+}
