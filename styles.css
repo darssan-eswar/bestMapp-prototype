@@ -3,6 +3,18 @@ body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:rgba(255, 253, 253, 0.5);
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+}
+
 h1 {
     color: darkslategrey;
     text-align: center;
